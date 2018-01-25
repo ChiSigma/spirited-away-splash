@@ -1,0 +1,13 @@
+{
+  "name": "spirited-away-splash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChiSigma/spirited-away-splash.git"
+  },
+  "description": "Splash page for Chi Sigma Boat Cruise",
+  "author": "https://github.com/ChiSigma",
+  "version": "2.0.0",
+  "scripts": {
+    "test": ""
+  }
+}
