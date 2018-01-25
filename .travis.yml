@@ -13,3 +13,4 @@ deploy:
   bucket: "spirited-away.chisigma.co"
   skip_cleanup: true
   region: "us-east-1"
+  acl: public_read
