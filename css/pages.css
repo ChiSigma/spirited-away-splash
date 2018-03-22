@@ -74,9 +74,6 @@ footer {
 
 }
 @media (min-width: 550px) {
-    .show-me-mobile {
-        display: none;
-    }
     .subheader {
         font-size: 10em;
         line-height: 1em;
