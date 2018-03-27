@@ -74,6 +74,9 @@ footer {
 
 }
 @media (min-width: 550px) {
+    .show-me-mobile {   
+        display: none; 
+    }
     .subheader {
         font-size: 10em;
         line-height: 1em;
@@ -422,4 +425,22 @@ footer {
 .splash-page footer {
     background-color: #fff !important;
     background-image: none !important;
+}
+
+/* Happy Passengers! */
+#passengers {
+    width: 100%;
+    font-size: 16px;
+}
+
+#passengers th {
+    text-align: center;
+}
+
+#passengers td {
+    padding-bottom: 5px;
+}
+
+footer .height-fix {
+    min-height: 150px !important;
 }
